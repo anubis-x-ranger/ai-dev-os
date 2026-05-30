@@ -1,4 +1,5 @@
 # ai-dev-os
+```
 ai-dev-os/
 │
 ├── .github/
@@ -65,3 +66,5 @@ ai-dev-os/
 │   └── scaling-strategy.md
 │
 └── README.md
+
+```
